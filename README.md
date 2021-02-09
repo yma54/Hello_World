@@ -26,3 +26,7 @@ Hello_World/
     │── filename1.csv
     │── examples.html
 
+## Helpful Files
+
+GitHub setup instructions.docx
+
