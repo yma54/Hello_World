@@ -16,7 +16,7 @@ Learn to code with GitHub and practice how to make repository
 
 ## How to Run Program 
 
-Tips from professor
+###Tips from professor
 
 Explain here how you would run the program and what files need to be available. 
 ```text
